@@ -1,0 +1,6 @@
+{
+  "name": "Karoo Haven Guest House",
+  "description": "Premium 4-star hospitality website for Karoo Haven Guest House in Colesberg, South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
